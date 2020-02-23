@@ -1,53 +1,54 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/screenshots/3.png" alt="ToDo logo"></a>
+ <img  src="https://github.com/AbdallahHemdan/Hangman-With-React/blob/master/screenshots/6.jpg" alt="Hangman logo"></a>
 </p>
 
-<h3 align="center">🗓 ToDo With React</h3>
+<h3 align="center">💀 Hangman Game</h3>
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/issues)
-[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/network)
-[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/stargazers)
-[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Hangman-With-React)](https://github.com/AbdallahHemdan/Hangman-With-React/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Hangman-With-React)](https://github.com/AbdallahHemdan/Hangman-With-React/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Hangman-With-React)](https://github.com/AbdallahHemdan/Hangman-With-React/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Hangman-With-React)](https://github.com/AbdallahHemdan/Hangman-With-React/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Hangman-With-React)](https://github.com/AbdallahHemdan/Hangman-With-React/blob/master/LICENSE)
 
 </div>
 
 ---
-## 💡 To Do With React ([Click to try 🚀](https://abdallahhemdan.github.io/ToDo-With-React/))
+## 💀 Hangman With React ([Click to try 🚀](https://abdallahhemdan.github.io/Hangman-With-React/)
 ------------------------------------------------------------------------------------------------------
 
-**To Do With React** is a simple todo app using react.js, as a simple project to improve my reactJS skills..
+**Hangman Game** is my implementation of Hangman game app using react.js, as a simple project to improve my reactJS skills..
 
 ## 👀 Functionalites
 ------------------
 
-1. Add elements to the list.
-2. Edit elements in the list.
-3. Delete elements in the list.
-4. Animate the creating and deletion of items in the list.
+1. guess the programming language.
+2. each time you have to enter a key
+3. each round you have at max 6 wrong-guesses
 
 ## ⚙ How to use
 ------------------
 
-1. git clone ```https://github.com/AbdallahHemdan/ToDo-With-React.git``` in your terminal
+1. git clone ```https://github.com/AbdallahHemdan/Hangman-With-React.git``` in your terminal
 2. cd todo
 3. npm install
-4. npm run start
+4. npm start
 
 ## 📷 ScreenShots 
 -------------------
 
 <div align="center">
   
-<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/screenshots/5.png">
+<img src="https://github.com/AbdallahHemdan/Hangman-With-React/blob/master/screenshots/1.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/screenshots/3.png">
+<img src="https://github.com/AbdallahHemdan/Hangman-With-React/blob/master/screenshots/2.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/screenshots/4.png">
+<img src="https://github.com/AbdallahHemdan/Hangman-With-React/blob/master/screenshots/3.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/screenshots/6.png">
+<img src="https://github.com/AbdallahHemdan/Hangman-With-React/blob/master/screenshots/4.png">
+<hr>
+<img src="https://github.com/AbdallahHemdan/Hangman-With-React/blob/master/screenshots/5.png">
 
 </div>
 
