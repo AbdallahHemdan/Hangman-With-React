@@ -17,7 +17,6 @@ class Hangman extends Component {
     maxWrong: 6,
     images: [step0, step1, step2, step3, step4, step5, step6]
   };
-
   constructor(props) {
     super(props);
     this.state = {
@@ -55,7 +54,7 @@ class Hangman extends Component {
   }
 
   keyPress = (event) => {
-    if (endState === true || endState === true) {
+    if (endState === true) {
       if (event.keyCode === BACKSPACE
         || event.keyCode === ENTER
         || event.keyCode === SPACE) {
@@ -80,7 +79,7 @@ class Hangman extends Component {
         key={letter}
         value={letter}
         onClick={e => this.handleGuess(e.target.value)}
-        disabled={this.state.guessed.has(letter)}
+        dis abled={this.state.guessed.has(letter)}
       >
         {letter}
       </button>
